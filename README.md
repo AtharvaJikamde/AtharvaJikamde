@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtharvaJikamde
-- 👀 I’m interested in Javascript and HTML <canvas> tag
+- 👀 I’m interested in Javascript and HTML canvas <canvas> tag
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
